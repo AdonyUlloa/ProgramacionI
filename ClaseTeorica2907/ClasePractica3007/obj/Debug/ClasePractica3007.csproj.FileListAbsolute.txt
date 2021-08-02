@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClasePractica3007\bin\Debug\ClasePractica3007.exe.config
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClasePractica3007\bin\Debug\ClasePractica3007.exe
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClasePractica3007\bin\Debug\ClasePractica3007.pdb
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClasePractica3007\obj\Debug\ClasePractica3007.csprojAssemblyReference.cache
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClasePractica3007\obj\Debug\ClasePractica3007.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClasePractica3007\obj\Debug\ClasePractica3007.exe
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClasePractica3007\obj\Debug\ClasePractica3007.pdb

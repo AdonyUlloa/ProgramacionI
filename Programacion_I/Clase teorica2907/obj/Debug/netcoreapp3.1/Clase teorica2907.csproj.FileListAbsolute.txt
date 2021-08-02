@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\bin\Debug\netcoreapp3.1\Clase teorica2907.exe
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\bin\Debug\netcoreapp3.1\Clase teorica2907.deps.json
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\bin\Debug\netcoreapp3.1\Clase teorica2907.runtimeconfig.json
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\bin\Debug\netcoreapp3.1\Clase teorica2907.runtimeconfig.dev.json
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\bin\Debug\netcoreapp3.1\Clase teorica2907.dll
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\bin\Debug\netcoreapp3.1\Clase teorica2907.pdb
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\obj\Debug\netcoreapp3.1\Clase teorica2907.csprojAssemblyReference.cache
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\obj\Debug\netcoreapp3.1\Clase teorica2907.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\obj\Debug\netcoreapp3.1\Clase teorica2907.AssemblyInfo.cs
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\obj\Debug\netcoreapp3.1\Clase teorica2907.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\obj\Debug\netcoreapp3.1\Clase teorica2907.dll
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\obj\Debug\netcoreapp3.1\Clase teorica2907.pdb
+C:\Users\PC\Documents\ProgramacionI\Programacion_I\Clase teorica2907\obj\Debug\netcoreapp3.1\Clase teorica2907.genruntimeconfig.cache

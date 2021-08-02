@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Clase_teorica2907</RootNamespace>
+    <StartupObject>Clase_teorica2907.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

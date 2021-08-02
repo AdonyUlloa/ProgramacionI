@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClaseTeorica2907\bin\Debug\ClaseTeorica2907.exe.config
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClaseTeorica2907\bin\Debug\ClaseTeorica2907.exe
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClaseTeorica2907\bin\Debug\ClaseTeorica2907.pdb
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClaseTeorica2907\obj\Debug\ClaseTeorica2907.csprojAssemblyReference.cache
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClaseTeorica2907\obj\Debug\ClaseTeorica2907.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClaseTeorica2907\obj\Debug\ClaseTeorica2907.exe
+C:\Users\PC\Documents\ProgramacionI\ClaseTeorica2907\ClaseTeorica2907\obj\Debug\ClaseTeorica2907.pdb
